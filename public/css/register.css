@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .card-header{
+    text-align: center;
+  }
+  .row.mb-3{
+    margin: 16px 0px;
+  }
+  .col-md-4.col-form-label.text-md-end{
+    display: none;
+  }
+  .additional-text{
+    margin-top: 15px;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  /* .nav-item{
+    display: none;
+  } */

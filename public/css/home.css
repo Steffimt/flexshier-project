@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+.card-header{
+    font-weight: bold;
+    margin-top: 2rem;
+}
+.nav-item.dropdown{
+    margin-top: 1rem;
+}
+.nav-link.dropdown-toggle{
+    color: black;
+    font-weight: bold;
+}
+.dropdown-menu.dropdown-menu-end{
+    margin-top: 0.5rem;
+}
